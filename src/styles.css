@@ -1,0 +1,18 @@
+* {
+  margin: 0 auto;
+}
+.LogInPage {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLE8UiM7yzJn8lkh2ib3ThjHrYsVTUa5XGCKT7zPAN1Nt0SV5m");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40em;
+}
+.logInS {
+  width: 100px;
+  height: 35px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.34);
+  background: #92caff;
+  text-align: center;
+}
